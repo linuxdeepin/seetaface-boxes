@@ -1,0 +1,2 @@
+seetaface-boxes: package-must-activate-ldconfig-trigger usr/lib/libSeetaFaceDetector600.so
+seetaface-boxes: shlib-without-PT_GNU_STACK-section usr/lib/libSeetaFaceDetector600.so
